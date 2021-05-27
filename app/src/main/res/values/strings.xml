@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">UnitConvertApp</string>
+    <string name="click_me">Click me</string>
+    <string name="enter_your_name">enter your name</string>
+    <string name="enter_your_name_to">enter your name to!!</string>
+    <string name="string_click_me" />
+</resources>
